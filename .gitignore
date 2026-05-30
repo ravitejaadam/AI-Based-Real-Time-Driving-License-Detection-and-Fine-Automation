@@ -73,3 +73,18 @@ release-builds/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# AI Model files (big, downloadable on demand
+yolov8*.pt
+*.pt
+*.pth
+*.pth.tar
+
+# Storage (screenshots, logs)
+backend/storage/
+*.jpg
+*.jpeg
+*.png
+storage/
+detections.json
+unique_plates.json
