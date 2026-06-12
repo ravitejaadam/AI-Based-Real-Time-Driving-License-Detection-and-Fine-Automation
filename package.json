@@ -1,0 +1,26 @@
+{
+  "name": "traffic-monitoring-system",
+  "version": "1.0.0",
+  "description": "AI-Based Smart Traffic Monitoring and Automatic Challan Generation System",
+  "main": "electron/main.js",
+  "scripts": {
+    "dev": "concurrently \"npm run backend:dev\" \"npm run frontend:dev\" \"wait-on http://localhost:5173 http://localhost:5000/api/status && npm run electron:dev\"",
+    "backend:dev": "cd backend && npm run start",
+    "frontend:dev": "cd frontend && npm run dev",
+    "electron:dev": "electron .",
+    "build": "cd frontend && npm run build && cd .. && electron-builder"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "electron": "^42.3.0",
+    "electron-builder": "^24.9.1",
+    "wait-on": "^7.2.0"
+  },
+  "dependencies": {
+    "electron-is-dev": "^2.0.0",
+    "socket.io": "^4.8.3"
+  }
+}

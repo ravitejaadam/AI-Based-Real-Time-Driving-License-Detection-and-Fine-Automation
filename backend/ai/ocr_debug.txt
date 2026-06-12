@@ -1,0 +1,1172 @@
+Raw OCR: 4)i EHe 13E3339 | Conf: 0.38
+Raw OCR: Me TEJN29 | Conf: 0.05
+Raw OCR: MHeT@ J9 | Conf: 0.63
+Raw OCR: MHPS V3555. | Conf: 0.52
+Raw OCR: FH25 43555 | Conf: 0.40
+Raw OCR: HH25 V3555 | Conf: 0.68
+Raw OCR: 13 Edo3339} | Conf: 0.65
+Raw OCR: 13E Je3339 | Conf: 0.81
+Raw OCR: 43E Je3339 | Conf: 0.45
+Raw OCR: MH2S 3555 | Conf: 0.56
+Raw OCR: MH25 V3555 | Conf: 0.40
+Raw OCR: QH25 [3555 | Conf: 0.22
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: NHHZ V3555 | Conf: 0.46
+Raw OCR: HH25 V3555 | Conf: 0.65
+Raw OCR: MH25 43555 | Conf: 0.34
+Raw OCR: [25 V355 | Conf: 0.56
+Raw OCR: MH25 N355 | Conf: 0.19
+Raw OCR: HA25 N355 | Conf: 0.20
+Raw OCR: 43 391 E:Jo33 | Conf: 0.64
+Raw OCR: 13E Je3339 | Conf: 0.92
+Raw OCR: IJonwg | Conf: 0.33
+Raw OCR: 6 QH2S V3555 | Conf: 0.39
+Raw OCR: 5H25 V3555 | Conf: 0.56
+Raw OCR: MH25 V3555 | Conf: 0.42
+Raw OCR: #He 13 EJ339 | Conf: 0.36
+Raw OCR: hHo TJJo3239 | Conf: 0.25
+Raw OCR: Ho TE Je29 | Conf: 0.28
+Raw OCR: iHo 13E9o3339) | Conf: 0.50
+Raw OCR: Hej Je3339 | Conf: 0.49
+Raw OCR: HoTEJo3229 | Conf: 0.08
+Raw OCR: Jo333i9) | Conf: 0.24
+Raw OCR: Jo3339 | Conf: 0.96
+Raw OCR: Jo3339 | Conf: 0.97
+Raw OCR: MN25 13555 | Conf: 0.16
+Raw OCR: MH25 3555 | Conf: 0.61
+Raw OCR: QH25 [3555 | Conf: 0.26
+Raw OCR: @le 13EEJ3339 | Conf: 0.52
+Raw OCR: HHeTD J339 | Conf: 0.24
+Raw OCR: He TJo 339 | Conf: 0.52
+Raw OCR: 6OLS=akot @eb3 Ej3339 | Conf: 0.27
+Raw OCR: Te QE Je3339 | Conf: 0.43
+Raw OCR: Ho HJe39 | Conf: 0.44
+Raw OCR: MHT3 7906 aNTAMOBiuB  | Conf: 0.37
+Raw OCR: MATE L7906 CHAVAN AUTOMOBILES | Conf: 0.77
+Raw OCR: MHTE 'L7906 chavAN AUTOMOBILES | Conf: 0.48
+Raw OCR: L7 8w8 | Conf: 0.27
+Raw OCR: MHTZ L7906 chnvanautumobite | Conf: 0.55
+Raw OCR: MHTE L7906 'CHAVAN Automobiles | Conf: 0.45
+Raw OCR: QHTHE 'L7906 | Conf: 0.44
+Raw OCR: MHTH L7906 Inutontontc Toavan | Conf: 0.43
+Raw OCR: MHTZ L7906 [automobiles TCHAVAN  | Conf: 0.49
+Raw OCR: QHTHE 'L7906 | Conf: 0.44
+Raw OCR: MHTH L7906 Inutontontc Toavan | Conf: 0.43
+Raw OCR: MHTZ L7906 [automobiles TCHAVAN  | Conf: 0.49
+Raw OCR: QHTHE 'L7906 | Conf: 0.44
+Raw OCR: MHTH L7906 Inutontontc Toavan | Conf: 0.43
+Raw OCR: MHTZ L7906 [automobiles TCHAVAN  | Conf: 0.49
+Raw OCR: QHTHE 'L7906 | Conf: 0.44
+Raw OCR: MHTH L7906 Inutontontc Toavan | Conf: 0.43
+Raw OCR: MHTZ L7906 [automobiles TCHAVAN  | Conf: 0.49
+Raw OCR: QHTHE 'L7906 | Conf: 0.44
+Raw OCR: MHTH L7906 Inutontontc Toavan | Conf: 0.43
+Raw OCR: MHTZ L7906 [automobiles TCHAVAN  | Conf: 0.49
+Raw OCR: QHTHE 'L7906 | Conf: 0.44
+Raw OCR: MHTH L7906 Inutontontc Toavan | Conf: 0.43
+Raw OCR: MHTZ L7906 [automobiles TCHAVAN  | Conf: 0.49
+Raw OCR: {9 | Conf: 0.02
+Raw OCR: MHT3E L7906 | Conf: 0.73
+Raw OCR: MHT3E L7906 huwumdait cinvan | Conf: 0.56
+Raw OCR: 176 | Conf: 0.09
+Raw OCR: MT L7906 | Conf: 0.58
+Raw OCR: HT2E L7906 | Conf: 0.61
+Raw OCR: Uu98 | Conf: 0.01
+Raw OCR: Mchi NHTJE L7906 | Conf: 0.56
+Raw OCR: Uu98 | Conf: 0.01
+Raw OCR: Mchi NHTJE L7906 | Conf: 0.56
+Raw OCR: Uu98 | Conf: 0.01
+Raw OCR: Mchi NHTJE L7906 | Conf: 0.56
+Raw OCR: 9 | Conf: 1.00
+Raw OCR: 3 | Conf: 0.10
+Raw OCR: MHTJE L7906 | Conf: 0.65
+Raw OCR: To' MHT3E L79ob (ichnvasawolorE | Conf: 0.20
+Raw OCR: MHT3 L7906 CHAVAN AUTOMOBILES | Conf: 0.69
+Raw OCR: MHTE L7906 CHAVAN AUTOMOBILES | Conf: 0.77
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: L79u6 QH13E QutotdNu | Conf: 0.33
+Raw OCR: MHTZ FCHAVAN L7906 automobiles | Conf: 0.47
+Raw OCR: CHAVAN_ MHT3E L7906 automobiles | Conf: 0.69
+Raw OCR: MHT2 7906 CHAV WVtoMpBH | Conf: 0.46
+Raw OCR: MHTE L7906 CHAVAN AUTOMOBILES | Conf: 0.79
+Raw OCR: MATH L7906 CHAVAN AUTOMOBILES | Conf: 0.66
+Raw OCR: MHT3E 906 | Conf: 0.67
+Raw OCR: MHTZ L7906 | Conf: 0.68
+Raw OCR: Ibl MHTE L7906 Kcha | Conf: 0.36
+Raw OCR: Hh8 | Conf: 0.00
+Raw OCR: FHT3E L7906 Iautolobe Mchatam | Conf: 0.31
+Raw OCR: MHTZ L7906 autoMobILES Wchavan{ | Conf: 0.47
+Raw OCR: L790 MHT3 Kaachva | Conf: 0.37
+Raw OCR: MHTH L7905 Kmautdn chaVA | Conf: 0.37
+Raw OCR: 96 | Conf: 0.17
+Raw OCR: "Va | Conf: 0.13
+Raw OCR: MHTJE L7906 | Conf: 0.62
+Raw OCR: MHT3E, L79o6 RutoMdlLe8 | Conf: 0.36
+Raw OCR: FHTJ L7906 1 CHAVAN AUTOMOBILES | Conf: 0.56
+Raw OCR: MHTE 'L7906 13 CHAVAN AUTOMOBILES | Conf: 0.56
+Raw OCR: #8E | Conf: 0.07
+Raw OCR: MHTZ L7906 Iaututtomit Mcwavar | Conf: 0.33
+Raw OCR: MHTZ L7906 utomobiles IchAVAN | Conf: 0.49
+Raw OCR: 1we | Conf: 0.03
+Raw OCR: MHT3E L7906 | Conf: 0.85
+Raw OCR: MHT3E L7906 utononp #cMANAN | Conf: 0.34
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: MHIZE L7906 | Conf: 0.71
+Raw OCR: MHTZE L7906 acnn | Conf: 0.47
+Raw OCR: AU MHTZE L7906 Wchavan  | Conf: 0.41
+Raw OCR: 13 | Conf: 0.68
+Raw OCR: 790 | Conf: 0.30
+Raw OCR: M LJe | Conf: 0.54
+Raw OCR: 7990 LZ | Conf: 0.22
+Raw OCR: MhT L7906 | Conf: 0.57
+Raw OCR: 7990 LZ | Conf: 0.22
+Raw OCR: MhT L7906 | Conf: 0.57
+Raw OCR: 7990 LZ | Conf: 0.22
+Raw OCR: MhT L7906 | Conf: 0.57
+Raw OCR: 7990 LZ | Conf: 0.22
+Raw OCR: MhT L7906 | Conf: 0.57
+Raw OCR: 7990 LZ | Conf: 0.22
+Raw OCR: MhT L7906 | Conf: 0.57
+Raw OCR: 7990 LZ | Conf: 0.22
+Raw OCR: MhT L7906 | Conf: 0.57
+Raw OCR: 7990 LZ | Conf: 0.22
+Raw OCR: MhT L7906 | Conf: 0.57
+Raw OCR: ~hh13aze | Conf: 0.37
+Raw OCR: HHI3Aze | Conf: 0.16
+Raw OCR: 0H13AZ6 | Conf: 0.25
+Raw OCR: HH13426941 | Conf: 0.56
+Raw OCR: HH13426941 | Conf: 0.28
+Raw OCR: -HH124z6941 | Conf: 0.14
+Raw OCR: 0a12a 45428 | Conf: 0.19
+Raw OCR: HETJB 45428 | Conf: 0.32
+Raw OCR: 430 | Conf: 0.60
+Raw OCR: At 454 6 | Conf: 0.47
+Raw OCR: HH' 4J0 45438 | Conf: 0.57
+Raw OCR: HHTJP 45438 | Conf: 0.56
+Raw OCR: nhize 45438 | Conf: 0.36
+Raw OCR: MHTJB 45438 | Conf: 0.38
+Raw OCR: MHTJB A5438 | Conf: 0.72
+Raw OCR: ~HH13426941 | Conf: 0.64
+Raw OCR: MH134z6941 | Conf: 0.22
+Raw OCR: 'MH1342694- | Conf: 0.35
+Raw OCR: ~HH43426941 | Conf: 0.14
+Raw OCR: HHT3426941 | Conf: 0.33
+Raw OCR: -Hh13Az6941 | Conf: 0.16
+Raw OCR: HH13Az69 | Conf: 0.30
+Raw OCR: HH13az69_ | Conf: 0.18
+Raw OCR: HH134z69_ | Conf: 0.52
+Raw OCR: Chh13az6941] | Conf: 0.18
+Raw OCR: WT MH13426941 | Conf: 0.23
+Raw OCR: MH13426941 | Conf: 0.35
+Raw OCR: Chh13az6941] | Conf: 0.18
+Raw OCR: WT MH13426941 | Conf: 0.23
+Raw OCR: MH13426941 | Conf: 0.35
+Raw OCR: Chh13az6941] | Conf: 0.18
+Raw OCR: WT MH13426941 | Conf: 0.23
+Raw OCR: MH13426941 | Conf: 0.35
+Raw OCR: Chh13az6941] | Conf: 0.18
+Raw OCR: WT MH13426941 | Conf: 0.23
+Raw OCR: MH13426941 | Conf: 0.35
+Raw OCR: Chh13az6941] | Conf: 0.18
+Raw OCR: WT MH13426941 | Conf: 0.23
+Raw OCR: MH13426941 | Conf: 0.35
+Raw OCR: Chh13az6941] | Conf: 0.18
+Raw OCR: WT MH13426941 | Conf: 0.23
+Raw OCR: MH13426941 | Conf: 0.35
+Raw OCR: Chh13az6941] | Conf: 0.18
+Raw OCR: WT MH13426941 | Conf: 0.23
+Raw OCR: MH13426941 | Conf: 0.35
+Raw OCR: Chh13az6941] | Conf: 0.18
+Raw OCR: WT MH13426941 | Conf: 0.23
+Raw OCR: MH13426941 | Conf: 0.35
+Raw OCR: Chh13az6941] | Conf: 0.18
+Raw OCR: WT MH13426941 | Conf: 0.23
+Raw OCR: MH13426941 | Conf: 0.35
+Raw OCR: Chh13az6941] | Conf: 0.18
+Raw OCR: WT MH13426941 | Conf: 0.23
+Raw OCR: MH13426941 | Conf: 0.35
+Raw OCR: Chh13az6941] | Conf: 0.18
+Raw OCR: WT MH13426941 | Conf: 0.23
+Raw OCR: MH13426941 | Conf: 0.35
+Raw OCR: -0H13426941 | Conf: 0.38
+Raw OCR: HHT3476941 | Conf: 0.15
+Raw OCR: -HH134z6941 | Conf: 0.12
+Raw OCR: QATJB 54j8 | Conf: 0.17
+Raw OCR: MHTJE 15438 | Conf: 0.30
+Raw OCR: MHTze 45430 | Conf: 0.18
+Raw OCR: MT 5438 | Conf: 0.20
+Raw OCR: HATZe 45438 | Conf: 0.13
+Raw OCR: 5 77a 432 | Conf: 0.17
+Raw OCR: 5438 0-3 | Conf: 0.27
+Raw OCR: 4128 45438 | Conf: 0.62
+Raw OCR: MHTJB 45438 | Conf: 0.39
+Raw OCR: MHTJB 45438 | Conf: 0.44
+Raw OCR: 8 Aija 45421 | Conf: 0.40
+Raw OCR: MHTJB 45438 | Conf: 0.74
+Raw OCR: NHTJB 45438 | Conf: 0.39
+Raw OCR: 4 Ihize 5438 | Conf: 0.66
+Raw OCR: MHTJB 45438 | Conf: 0.62
+Raw OCR: MHTJB A5438 | Conf: 0.50
+Raw OCR: 4 Ihize 5438 | Conf: 0.66
+Raw OCR: MHTJB 45438 | Conf: 0.62
+Raw OCR: MHTJB A5438 | Conf: 0.50
+Raw OCR: 4 Ihize 5438 | Conf: 0.66
+Raw OCR: MHTJB 45438 | Conf: 0.62
+Raw OCR: MHTJB A5438 | Conf: 0.50
+Raw OCR: 3 nhnj As48 | Conf: 0.42
+Raw OCR: NHTJB 45438 | Conf: 0.38
+Raw OCR: MHTJB A5438 | Conf: 0.45
+Raw OCR: Fkh13az6941" | Conf: 0.54
+Raw OCR: HH43426941 | Conf: 0.35
+Raw OCR: MH13426941 | Conf: 0.39
+Raw OCR: Fkh13az6941" | Conf: 0.54
+Raw OCR: HH43426941 | Conf: 0.35
+Raw OCR: MH13426941 | Conf: 0.39
+Raw OCR: Fkh13az6941" | Conf: 0.54
+Raw OCR: HH43426941 | Conf: 0.35
+Raw OCR: MH13426941 | Conf: 0.39
+Raw OCR: Fkh13az6941" | Conf: 0.54
+Raw OCR: HH43426941 | Conf: 0.35
+Raw OCR: MH13426941 | Conf: 0.39
+Raw OCR: Fkh13az6941" | Conf: 0.54
+Raw OCR: HH43426941 | Conf: 0.35
+Raw OCR: MH13426941 | Conf: 0.39
+Raw OCR: MHTP 46438 | Conf: 0.62
+Raw OCR: HHTHB A5438 | Conf: 0.61
+Raw OCR: FHT38 A5438 | Conf: 0.55
+Raw OCR: 3B | Conf: 0.05
+Raw OCR: N4442az69447 | Conf: 0.03
+Raw OCR: [8h48a2694| | Conf: 0.07
+Raw OCR: 74h43az6941 | Conf: 0.03
+Raw OCR: FhL242694L | Conf: 0.07
+Raw OCR: [4442a26941 | Conf: 0.10
+Raw OCR: 6Hh43az6941| | Conf: 0.08
+Raw OCR: MHTP 45438_ | Conf: 0.59
+Raw OCR: FHT38 45438 | Conf: 0.53
+Raw OCR: HT3B 45438 | Conf: 0.60
+Raw OCR: 286 | Conf: 0.10
+Raw OCR: Cah03az6941] | Conf: 0.02
+Raw OCR: 6hh43az694| | Conf: 0.06
+Raw OCR: 6hh43az6941| | Conf: 0.03
+Raw OCR: Cah03az6941] | Conf: 0.02
+Raw OCR: 6hh43az694| | Conf: 0.06
+Raw OCR: 6hh43az6941| | Conf: 0.03
+Raw OCR: Cah03az6941] | Conf: 0.02
+Raw OCR: 6hh43az694| | Conf: 0.06
+Raw OCR: 6hh43az6941| | Conf: 0.03
+Raw OCR: 6h843az6944] | Conf: 0.01
+Raw OCR: 1 4h42az6941 | Conf: 0.03
+Raw OCR: 4h4baz6941| | Conf: 0.10
+Raw OCR: MAT3E' A5438 | Conf: 0.31
+Raw OCR: MHT3B A5438 | Conf: 0.60
+Raw OCR: THT38 A5438 | Conf: 0.49
+Raw OCR: 3348 | Conf: 0.19
+Raw OCR: MHT38' 05438 | Conf: 0.76
+Raw OCR: MHT38 A5438 | Conf: 0.42
+Raw OCR: HH138 45438 | Conf: 0.45
+Raw OCR: 388s | Conf: 0.08
+Raw OCR: N4442az69447 | Conf: 0.03
+Raw OCR: [8h48a2694| | Conf: 0.07
+Raw OCR: 74h43az6941 | Conf: 0.03
+Raw OCR: MHT3P 46438 | Conf: 0.49
+Raw OCR: FHT3B 45438 | Conf: 0.51
+Raw OCR: FHT3B 45438 | Conf: 0.40
+Raw OCR: 3848 | Conf: 0.24
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: 64h43az6941 | Conf: 0.06
+Raw OCR: 6hh4Ja26941 | Conf: 0.06
+Raw OCR: 74h43az694| | Conf: 0.02
+Raw OCR: [He.192163239 | Conf: 0.03
+Raw OCR: MeLH Je3339 | Conf: 0.44
+Raw OCR: He TEJ29 | Conf: 0.39
+Raw OCR: HH2S 3555 | Conf: 0.66
+Raw OCR: MH25 [3555 | Conf: 0.39
+Raw OCR: MH25 43555 | Conf: 0.27
+Raw OCR: 233349 | Conf: 0.47
+Raw OCR: 0 3339 | Conf: 0.99
+Raw OCR: 23339 | Conf: 0.93
+Raw OCR: 0H2S 3555 | Conf: 0.60
+Raw OCR: FH25 V3555 | Conf: 0.33
+Raw OCR: MH25 13555 | Conf: 0.36
+Raw OCR: 233349 | Conf: 0.47
+Raw OCR: 0 3339 | Conf: 0.99
+Raw OCR: 23339 | Conf: 0.93
+Raw OCR: 0H2S 3555 | Conf: 0.60
+Raw OCR: FH25 V3555 | Conf: 0.33
+Raw OCR: MH25 13555 | Conf: 0.36
+Raw OCR: 233349 | Conf: 0.47
+Raw OCR: 0 3339 | Conf: 0.99
+Raw OCR: 23339 | Conf: 0.93
+Raw OCR: 0H2S 3555 | Conf: 0.60
+Raw OCR: FH25 V3555 | Conf: 0.33
+Raw OCR: MH25 13555 | Conf: 0.36
+Raw OCR: 233349 | Conf: 0.47
+Raw OCR: 0 3339 | Conf: 0.99
+Raw OCR: 23339 | Conf: 0.93
+Raw OCR: 0H2S 3555 | Conf: 0.60
+Raw OCR: FH25 V3555 | Conf: 0.33
+Raw OCR: MH25 13555 | Conf: 0.36
+Raw OCR: 233349 | Conf: 0.47
+Raw OCR: 0 3339 | Conf: 0.99
+Raw OCR: 23339 | Conf: 0.93
+Raw OCR: 0H2S 3555 | Conf: 0.60
+Raw OCR: FH25 V3555 | Conf: 0.33
+Raw OCR: MH25 13555 | Conf: 0.36
+Raw OCR: 233349 | Conf: 0.47
+Raw OCR: 0 3339 | Conf: 0.99
+Raw OCR: 23339 | Conf: 0.93
+Raw OCR: 0H2S 3555 | Conf: 0.60
+Raw OCR: FH25 V3555 | Conf: 0.33
+Raw OCR: MH25 13555 | Conf: 0.36
+Raw OCR: 233349 | Conf: 0.47
+Raw OCR: 0 3339 | Conf: 0.99
+Raw OCR: 23339 | Conf: 0.93
+Raw OCR: 0H2S 3555 | Conf: 0.60
+Raw OCR: FH25 V3555 | Conf: 0.33
+Raw OCR: MH25 13555 | Conf: 0.36
+Raw OCR: 233349 | Conf: 0.47
+Raw OCR: 0 3339 | Conf: 0.99
+Raw OCR: 23339 | Conf: 0.93
+Raw OCR: 0H2S 3555 | Conf: 0.60
+Raw OCR: FH25 V3555 | Conf: 0.33
+Raw OCR: MH25 13555 | Conf: 0.36
+Raw OCR: 233349 | Conf: 0.47
+Raw OCR: 0 3339 | Conf: 0.99
+Raw OCR: 23339 | Conf: 0.93
+Raw OCR: 0H2S 3555 | Conf: 0.60
+Raw OCR: FH25 V3555 | Conf: 0.33
+Raw OCR: MH25 13555 | Conf: 0.36
+Raw OCR: 233349 | Conf: 0.47
+Raw OCR: 0 3339 | Conf: 0.99
+Raw OCR: 23339 | Conf: 0.93
+Raw OCR: 0H2S 3555 | Conf: 0.60
+Raw OCR: FH25 V3555 | Conf: 0.33
+Raw OCR: MH25 13555 | Conf: 0.36
+Raw OCR: 233349 | Conf: 0.47
+Raw OCR: 0 3339 | Conf: 0.99
+Raw OCR: 23339 | Conf: 0.93
+Raw OCR: 0H2S 3555 | Conf: 0.60
+Raw OCR: FH25 V3555 | Conf: 0.33
+Raw OCR: MH25 13555 | Conf: 0.36
+Raw OCR: 233349 | Conf: 0.47
+Raw OCR: 0 3339 | Conf: 0.99
+Raw OCR: 23339 | Conf: 0.93
+Raw OCR: 0H2S 3555 | Conf: 0.60
+Raw OCR: FH25 V3555 | Conf: 0.33
+Raw OCR: MH25 13555 | Conf: 0.36
+Raw OCR: 233349 | Conf: 0.47
+Raw OCR: 0 3339 | Conf: 0.99
+Raw OCR: 23339 | Conf: 0.93
+Raw OCR: 0H2S 3555 | Conf: 0.60
+Raw OCR: FH25 V3555 | Conf: 0.33
+Raw OCR: MH25 13555 | Conf: 0.36
+Raw OCR: 233349 | Conf: 0.47
+Raw OCR: 0 3339 | Conf: 0.99
+Raw OCR: 23339 | Conf: 0.93
+Raw OCR: 0H2S 3555 | Conf: 0.60
+Raw OCR: FH25 V3555 | Conf: 0.33
+Raw OCR: MH25 13555 | Conf: 0.36
+Raw OCR: MA2S V3555 | Conf: 0.43
+Raw OCR: MH25 V3555 | Conf: 0.52
+Raw OCR: HH25 43555 | Conf: 0.37
+Raw OCR: VQ'Wh : HHol TEQ62329 | Conf: 0.14
+Raw OCR: MHo TEJe3339 | Conf: 0.33
+Raw OCR: L0 [o TJ29 | Conf: 0.20
+Raw OCR: 2 W HHo  11286podig} | Conf: 0.39
+Raw OCR: HHe TJ29 | Conf: 0.12
+Raw OCR: HeTJo2g | Conf: 0.16
+Raw OCR: hHe 121EQ6nbp9} | Conf: 0.18
+Raw OCR: Ho TZ Jo2239 | Conf: 0.15
+Raw OCR: Io TEJo23g | Conf: 0.03
+Raw OCR: 3339 | Conf: 0.70
+Raw OCR: 3339 | Conf: 0.99
+Raw OCR: 39 | Conf: 0.49
+Raw OCR: [2S V3555 | Conf: 0.53
+Raw OCR: 5H25 V3555 | Conf: 0.38
+Raw OCR: NH25 43555 | Conf: 0.27
+Raw OCR: 4AZoml- @o 7 3jz3u9 | Conf: 0.17
+Raw OCR: He]3 Je339 | Conf: 0.53
+Raw OCR: HHo HHJD9 | Conf: 0.36
+Raw OCR: Dlee Hel3 EJz 339 | Conf: 0.38
+Raw OCR: IHo T@ Je3339 | Conf: 0.30
+Raw OCR: Ie] DJe3239 | Conf: 0.41
+Raw OCR: WaIh: [e 43E6wong) | Conf: 0.03
+Raw OCR: Me12 J3339 | Conf: 0.40
+Raw OCR: hHe Je2339 | Conf: 0.38
+Raw OCR: ile W3EEQo23u9 | Conf: 0.01
+Raw OCR: HHe T Jo2239 | Conf: 0.34
+Raw OCR: [HeTZ Jel9 | Conf: 0.26
+Raw OCR: WaIh: [e 43E6wong) | Conf: 0.03
+Raw OCR: Me12 J3339 | Conf: 0.40
+Raw OCR: hHe Je2339 | Conf: 0.38
+Raw OCR: ile W3EEQo23u9 | Conf: 0.01
+Raw OCR: HHe T Jo2239 | Conf: 0.34
+Raw OCR: [HeTZ Jel9 | Conf: 0.26
+Raw OCR: WaIh: [e 43E6wong) | Conf: 0.03
+Raw OCR: Me12 J3339 | Conf: 0.40
+Raw OCR: hHe Je2339 | Conf: 0.38
+Raw OCR: ile W3EEQo23u9 | Conf: 0.01
+Raw OCR: HHe T Jo2239 | Conf: 0.34
+Raw OCR: [HeTZ Jel9 | Conf: 0.26
+Raw OCR: WaIh: [e 43E6wong) | Conf: 0.03
+Raw OCR: Me12 J3339 | Conf: 0.40
+Raw OCR: hHe Je2339 | Conf: 0.38
+Raw OCR: ile W3EEQo23u9 | Conf: 0.01
+Raw OCR: HHe T Jo2239 | Conf: 0.34
+Raw OCR: [HeTZ Jel9 | Conf: 0.26
+Raw OCR: Etlej3 Ej3339 | Conf: 0.24
+Raw OCR: HHe TE Je3339 | Conf: 0.61
+Raw OCR: HHo TJDg | Conf: 0.31
+Raw OCR: HHZ N35 | Conf: 0.26
+Raw OCR: MHZ V352 | Conf: 0.23
+Raw OCR: HHZ N352 | Conf: 0.17
+Raw OCR: 3339 | Conf: 0.75
+Raw OCR: 3 339 | Conf: 1.00
+Raw OCR: B39 | Conf: 0.63
+Raw OCR: MH2S 3555 | Conf: 0.64
+Raw OCR: MA25 43555 | Conf: 0.24
+Raw OCR: MH25 V3555 | Conf: 0.43
+Raw OCR: (iil | Conf: 0.08
+Raw OCR: 4)i EHe 13E3339 | Conf: 0.38
+Raw OCR: Me TEJN29 | Conf: 0.05
+Raw OCR: MHeT@ J9 | Conf: 0.63
+Raw OCR: HH V3 | Conf: 0.66
+Raw OCR: MH V3 | Conf: 0.56
+Raw OCR: Jo333319 | Conf: 0.40
+Raw OCR: Jo3339 | Conf: 0.52
+Raw OCR: [Jo3339 | Conf: 0.10
+Raw OCR: H25 3555 | Conf: 0.45
+Raw OCR: HH25 43555 | Conf: 0.47
+Raw OCR: 5H25 3555 | Conf: 0.67
+Raw OCR: @EiA | Conf: 0.06
+Raw OCR: Oa | Conf: 0.04
+Raw OCR: L2 [HeB36 29 | Conf: 0.09
+Raw OCR: hHo 1EJe3339 | Conf: 0.51
+Raw OCR: MHe TJo2229 | Conf: 0.15
+Raw OCR: Slat4Y 1e 031E 062329 7r  | Conf: 0.03
+Raw OCR: HeTJo3229 | Conf: 0.15
+Raw OCR: IeTE Jo3 Bng | Conf: 0.28
+Raw OCR: Jo13, 3189 Ede33 | Conf: 0.61
+Raw OCR: JoLZ Jo3339 | Conf: 0.17
+Raw OCR: T@ Je3339 | Conf: 0.17
+Raw OCR: HH2S V3555 | Conf: 0.80
+Raw OCR: F25 43555 | Conf: 0.15
+Raw OCR: F25 V3555 | Conf: 0.45
+Raw OCR: HK H3 | Conf: 0.27
+Raw OCR: MAS V3E | Conf: 0.27
+Raw OCR: HAE V3E | Conf: 0.20
+Raw OCR: HF V | Conf: 0.60
+Raw OCR: 213 EJe3339 | Conf: 0.57
+Raw OCR: ) 13E Je3339 | Conf: 0.92
+Raw OCR: IEJo2Ng | Conf: 0.02
+Raw OCR: NH25 3555 | Conf: 0.42
+Raw OCR: MA25 43555 | Conf: 0.22
+Raw OCR: [H25 V3555 | Conf: 0.39
+Raw OCR: {Dkmal | Conf: 0.07
+Raw OCR: 'a | Conf: 0.03
+Raw OCR: Loro Eeja Eb339 | Conf: 0.40
+Raw OCR: MeT@ Je3339 | Conf: 0.53
+Raw OCR: [eT@E JeD | Conf: 0.06
+Raw OCR: Da Ho: T3Ea3339 | Conf: 0.35
+Raw OCR: He12 Je3339 | Conf: 0.71
+Raw OCR: To THJo J9 | Conf: 0.27
+Raw OCR: 213 EJe3339 | Conf: 0.57
+Raw OCR: ) 13E Je3339 | Conf: 0.92
+Raw OCR: IEJo2Ng | Conf: 0.02
+Raw OCR: NH25 3555 | Conf: 0.42
+Raw OCR: MA25 43555 | Conf: 0.22
+Raw OCR: [H25 V3555 | Conf: 0.39
+Raw OCR: {Dkmal | Conf: 0.07
+Raw OCR: 'a | Conf: 0.03
+Raw OCR: @ 0191 Ho 1Edo33 | Conf: 0.47
+Raw OCR: Te Q2E Je3339 | Conf: 0.38
+Raw OCR: Me TH Ja39 | Conf: 0.22
+Raw OCR: LohUU; gej3 4199 EJa33' | Conf: 0.18
+Raw OCR: HHe TE J39 | Conf: 0.28
+Raw OCR: We  JeD9 | Conf: 0.22
+Raw OCR: J7JS {Ho T3E3o3r09' | Conf: 0.30
+Raw OCR: He N Je339 | Conf: 0.44
+Raw OCR: THo 339 TH Jel | Conf: 0.66
+Raw OCR: HH25 42555 | Conf: 0.23
+Raw OCR: NH25 43555 | Conf: 0.25
+Raw OCR: HH25 43555 | Conf: 0.54
+Raw OCR: 3339 | Conf: 0.87
+Raw OCR: 3339 | Conf: 0.99
+Raw OCR: 3319 | Conf: 0.24
+Raw OCR: 0HZS 43555 | Conf: 0.23
+Raw OCR: HH25 V3555 | Conf: 0.32
+Raw OCR: 5A25 43555 | Conf: 0.36
+Raw OCR: (El | Conf: 0.29
+Raw OCR: Ga | Conf: 0.08
+Raw OCR: Ln IHo: T3Eno339 | Conf: 0.04
+Raw OCR: [e]H J3339 | Conf: 0.50
+Raw OCR: [eJ3229 | Conf: 0.15
+Raw OCR: HH2S 3555 | Conf: 0.66
+Raw OCR: MH25 [3555 | Conf: 0.39
+Raw OCR: MH25 43555 | Conf: 0.27
+Raw OCR: 3339 | Conf: 0.71
+Raw OCR: 3339 | Conf: 0.91
+Raw OCR: 3339 | Conf: 0.52
+Raw OCR: HH2S 3555 | Conf: 0.57
+Raw OCR: HH25 13555 | Conf: 0.28
+Raw OCR: 5H25 V3555 | Conf: 0.57
+Raw OCR: #=Lotn 4lenE Je3339 | Conf: 0.28
+Raw OCR: le 13 Je3 339 | Conf: 0.61
+Raw OCR: HHo I Je3339 | Conf: 0.57
+Raw OCR: 3339 | Conf: 0.70
+Raw OCR: 3339 | Conf: 0.99
+Raw OCR: 39 | Conf: 0.49
+Raw OCR: [2S V3555 | Conf: 0.53
+Raw OCR: 5H25 V3555 | Conf: 0.38
+Raw OCR: NH25 43555 | Conf: 0.27
+Raw OCR: Ho 5 TEJ339 | Conf: 0.63
+Raw OCR: Me  Je339 | Conf: 0.65
+Raw OCR: IHe T Je3g | Conf: 0.26
+Raw OCR: Loro Eeja Eb339 | Conf: 0.40
+Raw OCR: MeT@ Je3339 | Conf: 0.53
+Raw OCR: [eT@E JeD | Conf: 0.06
+Raw OCR: Da Ho: T3Ea3339 | Conf: 0.35
+Raw OCR: He12 Je3339 | Conf: 0.71
+Raw OCR: To THJo J9 | Conf: 0.27
+Raw OCR: C"nl W HHo EJonn29} Yi | Conf: 0.26
+Raw OCR: MeTEJ29 | Conf: 0.04
+Raw OCR: HHe [ J2229 | Conf: 0.09
+Raw OCR: 6' TE4o3o9 | Conf: 0.10
+Raw OCR: @0 TEJ229 | Conf: 0.55
+Raw OCR: 21Jo229 | Conf: 0.27
+Raw OCR: M2S V3555 | Conf: 0.59
+Raw OCR: MH25 43555 | Conf: 0.32
+Raw OCR: 4H25 V3555 | Conf: 0.51
+Raw OCR: J0 liHe:  W2E.a3339] | Conf: 0.13
+Raw OCR: MHe TJo2239 | Conf: 0.13
+Raw OCR: HHo IEJ29 | Conf: 0.23
+Raw OCR: M HHe: WEeonng} | Conf: 0.25
+Raw OCR: JO HeLEJo329 | Conf: 0.33
+Raw OCR: He IJ 9 | Conf: 0.36
+Raw OCR: [ ) WBEUenn9 | Conf: 0.35
+Raw OCR: HE Je3339 | Conf: 0.54
+Raw OCR: QJowg | Conf: 0.28
+Raw OCR: HH V3 | Conf: 0.66
+Raw OCR: MH V3 | Conf: 0.56
+Raw OCR: JOr_ Wfe EJo3339 | Conf: 0.22
+Raw OCR: E Jo3339 | Conf: 0.93
+Raw OCR: EJo3339 | Conf: 0.48
+Raw OCR: HH2S V3555 | Conf: 0.38
+Raw OCR: 5H25 V3555 | Conf: 0.49
+Raw OCR: 5H25 13555 | Conf: 0.29
+Raw OCR: @Gil | Conf: 0.19
+Raw OCR: WH25 V3555 | Conf: 0.52
+Raw OCR: H425 V3555 | Conf: 0.40
+Raw OCR: 4H25 V3555 | Conf: 0.42
+Raw OCR: WH25 V3555 | Conf: 0.52
+Raw OCR: H425 V3555 | Conf: 0.40
+Raw OCR: 4H25 V3555 | Conf: 0.42
+Raw OCR: WH25 V3555 | Conf: 0.52
+Raw OCR: H425 V3555 | Conf: 0.40
+Raw OCR: 4H25 V3555 | Conf: 0.42
+Raw OCR: WH25 V3555 | Conf: 0.52
+Raw OCR: H425 V3555 | Conf: 0.40
+Raw OCR: 4H25 V3555 | Conf: 0.42
+Raw OCR: Ln IHo: T3Eno339 | Conf: 0.04
+Raw OCR: [e]H J3339 | Conf: 0.50
+Raw OCR: [eJ3229 | Conf: 0.15
+Raw OCR: M2S V3555 | Conf: 0.31
+Raw OCR: [A25 33555 | Conf: 0.18
+Raw OCR: HH25 3555 | Conf: 0.58
+Raw OCR: @nanLo 43555 | Conf: 0.40
+Raw OCR: Mils V3555 | Conf: 0.53
+Raw OCR: Wilj V3555 | Conf: 0.52
+Raw OCR: Tl HHe T3E93339 | Conf: 0.44
+Raw OCR: Me Jn9 | Conf: 0.13
+Raw OCR: HHe Ebwg | Conf: 0.54
+Raw OCR: O He Ern T J33339) | Conf: 0.17
+Raw OCR: He TEJo3239 | Conf: 0.49
+Raw OCR: HoT@Jj229 | Conf: 0.03
+Raw OCR: 3339 | Conf: 0.76
+Raw OCR: 3339 | Conf: 0.84
+Raw OCR: 3339 | Conf: 0.84
+Raw OCR: [H25 3555 | Conf: 0.69
+Raw OCR: FH25 13555 | Conf: 0.35
+Raw OCR: 4H25 43555 | Conf: 0.27
+Raw OCR: @+#I | Conf: 0.03
+Raw OCR: Lea | Conf: 0.28
+Raw OCR: 3339 | Conf: 0.76
+Raw OCR: 3339 | Conf: 0.84
+Raw OCR: 3339 | Conf: 0.84
+Raw OCR: [H25 3555 | Conf: 0.69
+Raw OCR: FH25 13555 | Conf: 0.35
+Raw OCR: 4H25 43555 | Conf: 0.27
+Raw OCR: @+#I | Conf: 0.03
+Raw OCR: Lea | Conf: 0.28
+Raw OCR: 3339 | Conf: 0.76
+Raw OCR: 3339 | Conf: 0.84
+Raw OCR: 3339 | Conf: 0.84
+Raw OCR: [H25 3555 | Conf: 0.69
+Raw OCR: FH25 13555 | Conf: 0.35
+Raw OCR: 4H25 43555 | Conf: 0.27
+Raw OCR: @+#I | Conf: 0.03
+Raw OCR: Lea | Conf: 0.28
+Raw OCR: 3339 | Conf: 0.76
+Raw OCR: 3339 | Conf: 0.84
+Raw OCR: 3339 | Conf: 0.84
+Raw OCR: [H25 3555 | Conf: 0.69
+Raw OCR: FH25 13555 | Conf: 0.35
+Raw OCR: 4H25 43555 | Conf: 0.27
+Raw OCR: @+#I | Conf: 0.03
+Raw OCR: Lea | Conf: 0.28
+Raw OCR: 3339 | Conf: 0.76
+Raw OCR: 3339 | Conf: 0.84
+Raw OCR: 3339 | Conf: 0.84
+Raw OCR: [H25 3555 | Conf: 0.69
+Raw OCR: FH25 13555 | Conf: 0.35
+Raw OCR: 4H25 43555 | Conf: 0.27
+Raw OCR: @+#I | Conf: 0.03
+Raw OCR: Lea | Conf: 0.28
+Raw OCR: He13 [Jo339 | Conf: 0.66
+Raw OCR: HoTZ Jo3339 | Conf: 0.58
+Raw OCR: HoTZJo3229 | Conf: 0.21
+Raw OCR: 4H2S V3555. | Conf: 0.32
+Raw OCR: HH25 V3555 | Conf: 0.28
+Raw OCR: HH25 43555 | Conf: 0.32
+Raw OCR: QH2 V35 | Conf: 0.80
+Raw OCR: MHZ V35 | Conf: 0.50
+Raw OCR: MAZ V35 | Conf: 0.70
+Raw OCR: QH2 V35 | Conf: 0.80
+Raw OCR: MHZ V35 | Conf: 0.50
+Raw OCR: MAZ V35 | Conf: 0.70
+Raw OCR: QH2 V35 | Conf: 0.80
+Raw OCR: MHZ V35 | Conf: 0.50
+Raw OCR: MAZ V35 | Conf: 0.70
+Raw OCR: QH2 V35 | Conf: 0.80
+Raw OCR: MHZ V35 | Conf: 0.50
+Raw OCR: MAZ V35 | Conf: 0.70
+Raw OCR: U )# 'el HHe NE6ww9 | Conf: 0.30
+Raw OCR: MFeTEJo)29 | Conf: 0.05
+Raw OCR: IeTJo229 | Conf: 0.07
+Raw OCR: MH2S V3555 | Conf: 0.34
+Raw OCR: [H25 3555 | Conf: 0.67
+Raw OCR: MH25 V3555 | Conf: 0.60
+Raw OCR: 0o33319 | Conf: 0.41
+Raw OCR: J3339 | Conf: 0.40
+Raw OCR: [e3339 | Conf: 0.54
+Raw OCR: 442S V3555 | Conf: 0.39
+Raw OCR: HA25 43555 | Conf: 0.37
+Raw OCR: 5H25 V3555 | Conf: 0.47
+Raw OCR: LJ} HHe1E69329 | Conf: 0.09
+Raw OCR: He TEJe3339 | Conf: 0.56
+Raw OCR: HHe IJ39 | Conf: 0.31
+Raw OCR: 13E o3339 | Conf: 0.14
+Raw OCR: 1EJoww9 | Conf: 0.19
+Raw OCR: 1EJoww9 | Conf: 0.16
+Raw OCR: UI Jo 18E4a3339 | Conf: 0.07
+Raw OCR: Ho TEJo 229 | Conf: 0.12
+Raw OCR: d He 1Je29 | Conf: 0.22
+Raw OCR: 0o33319 | Conf: 0.41
+Raw OCR: J3339 | Conf: 0.40
+Raw OCR: [e3339 | Conf: 0.54
+Raw OCR: 442S V3555 | Conf: 0.39
+Raw OCR: HA25 43555 | Conf: 0.37
+Raw OCR: 5H25 V3555 | Conf: 0.47
+Raw OCR: @orru @e l3 E33339 | Conf: 0.15
+Raw OCR: MHo TEJe3S | Conf: 0.66
+Raw OCR: MHe TE Je39 | Conf: 0.38
+Raw OCR: Hon7 3E4533319 | Conf: 0.16
+Raw OCR: HeJ2 Je339 | Conf: 0.45
+Raw OCR: He43E Jo32wg | Conf: 0.19
+Raw OCR: Ci 13339 | Conf: 0.42
+Raw OCR: 339 Ie3 | Conf: 0.69
+Raw OCR: Jo339 | Conf: 0.84
+Raw OCR: 0H25 3555 | Conf: 0.53
+Raw OCR: 5A25 V3555 | Conf: 0.49
+Raw OCR: 5H25 V3555 | Conf: 0.74
+Raw OCR: MHT2 7906 CHAV WVtoMpBH | Conf: 0.46
+Raw OCR: MHTE L7906 CHAVAN AUTOMOBILES | Conf: 0.79
+Raw OCR: MATH L7906 CHAVAN AUTOMOBILES | Conf: 0.66
+Raw OCR: ## | Conf: 0.02
+Raw OCR: MHTZE L7906 Dicmat | Conf: 0.58
+Raw OCR: MHTZ L7906 Wchvan | Conf: 0.48
+Raw OCR: MHT3E L7906 | Conf: 0.68
+Raw OCR: MHTZE L7906 auutoaitey Tchava | Conf: 0.40
+Raw OCR: MHTZ L7906 automdbilts cHAVAN  | Conf: 0.52
+Raw OCR: 19E' | Conf: 0.02
+Raw OCR: MHT3E L7906 Mchath | Conf: 0.50
+Raw OCR: Ibile MHTZ L7906 vtoi WchavaN | Conf: 0.50
+Raw OCR: TTHTT L7906 Wiamomks | Conf: 0.24
+Raw OCR: MHTZE L7906 avvolddiles Cchanan | Conf: 0.37
+Raw OCR: MHT3E L7906 automobiles WchavaN{ | Conf: 0.68
+Raw OCR: HH13A | Conf: 0.72
+Raw OCR: HH13A | Conf: 0.37
+Raw OCR: HHI3A | Conf: 0.42
+Raw OCR: Aij; 054 | Conf: 0.13
+Raw OCR: 4ije 0 454 | Conf: 0.50
+Raw OCR: HHTJE 45438 | Conf: 0.36
+Raw OCR: MHTJB A5438 | Conf: 0.71
+Raw OCR: nh1je 45438 | Conf: 0.40
+Raw OCR: NHTJB 45438 | Conf: 0.40
+Raw OCR: MHTSB A5438 | Conf: 0.52
+Raw OCR: 120h13426941] | Conf: 0.15
+Raw OCR: 0H13426941 | Conf: 0.21
+Raw OCR: MH13426941 | Conf: 0.58
+Raw OCR: ~H134z6941 | Conf: 0.24
+Raw OCR: 0H13426941 | Conf: 0.40
+Raw OCR: HH13Az6941 | Conf: 0.18
+Raw OCR: 4z69417 | Conf: 0.36
+Raw OCR: 426941 | Conf: 0.67
+Raw OCR: 426941 | Conf: 0.83
+Raw OCR: Mt 2 43 | Conf: 0.10
+Raw OCR: L 7-~ 5438 | Conf: 0.40
